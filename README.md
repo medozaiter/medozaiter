@@ -35,17 +35,20 @@
   - فحص واستغلال ثغرات التحكم بالوصول وانتحال الهوية المعرفية (**Broken Access Control & IDOR Exploitation**).
   - إجراء عمليات جمع المعلومات الاستخباراتية مفتوحة المصدر (**OSINT Reconnaissance**) وتحليل البصمة الرقمية للأنظمة.
   - محاكاة سيناريوهات الهندسة الاجتماعية (**Social Engineering Simulation**) لتقييم الوعي الأمني.
-  - اختبار أمان الشبكات والتطبيقات باستخدام أدوات مثل **Kali Linux, Wireshark, Metasploit, Nmap**.
+  - اختبار أمان الشبكات والتطبيقات ومراقبة وتحليل التهديدات (SOC & Traffic Analysis) باستخدام أدوات مثل **Kali Linux, Wireshark, Metasploit, Nmap**.
 
 - 📊 **تحليل البيانات والذكاء الاصطناعي (Data Science & AI):**
   - خبرة في تحليل ومعالجة البيانات باستخدام **Python, Pandas, NumPy**، وهندسة الأوامر الذكية (Prompt Engineering) لضبط مخرجات النماذج.
 
 ---
 
-### 📜 Certifications & Accredited Courses
-- 🛡️ **Offensive Cybersecurity & Penetration Testing** — *Bidaya Original (60 Training Hours, License: 57642, Cert No: Bid-0000137)*
-- ⚔️ **Professional Cybersecurity Course - CEH V1** — *Bidaya Consulting & Training (30 Training Hours)*
-- 🔓 **Broken Access Control & IDOR Exploitation Workshop** — *Green Armor Academy & IEEE Student Branch (ID: 32b368e624c460eb)*
+### 📜 Certifications & Credentials
+- 🛡️ **Offensive Cybersecurity & Penetration Testing**
+- ⚔️ **Professional Cybersecurity Course - CEH v1**
+- 🔓 **Broken Access Control & IDOR Exploitation**
+- 🌐 **Google Cybersecurity Professional Certificate**
+- 🔒 **Cisco: Introduction to Cybersecurity**
+- 🎯 **Cisco: Introduction to SOC & CyberOps**
 - 🐍 **Python Programming & Automation Masterclass**
 - 📊 **Introduction to Data Science & Analytics**
 
@@ -61,6 +64,7 @@
   <img src="https://img.shields.io/badge/OSINT-10B981?style=flat-square" />
   <img src="https://img.shields.io/badge/Social_Engineering-E65100?style=flat-square" />
   <img src="https://img.shields.io/badge/OWASP_Top_10-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOC_Analysis-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Network_Security-0288D1?style=flat-square" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
