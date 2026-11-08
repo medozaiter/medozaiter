@@ -42,15 +42,12 @@
 
 ---
 
-### 📜 Verified Certifications & Credentials
-- 🛡️ **Offensive Cybersecurity & Penetration Testing** — *Bidaya Original (60 Training Hours, License: 57642, Cert No: Bid-0000137)*  
-  📄 [عرض الشهادة المعتمدة (PDF)](./certificates/offensive-cybersecurity-penetration-testing.pdf)
-- ⚔️ **Professional Cybersecurity Course - CEH V1** — *Bidaya Consulting & Training (30 Hours, Cert No: BIDPC20260821)*  
-  📄 [عرض الشهادة المعتمدة (JPG)](./certificates/ceh-v1-certification.jpg)
-- 🔓 **Broken Access Control & IDOR Exploitation Workshop** — *Green Armor Academy in collaboration with IEEE Student Branch (Verify ID: 32b368e624c460eb)*  
-  📄 [عرض الشهادة المعتمدة (PDF)](./certificates/green-armor-ieee-idor-workshop.pdf)
-- 🐍 **Python Programming & Automation Masterclass** — *Certificate of Completion*
-- 📊 **Introduction to Data Science & Analytics** — *Certificate of Completion*
+### 📜 Certifications & Accredited Courses
+- 🛡️ **Offensive Cybersecurity & Penetration Testing** — *Bidaya Original (60 Training Hours, License: 57642, Cert No: Bid-0000137)*
+- ⚔️ **Professional Cybersecurity Course - CEH V1** — *Bidaya Consulting & Training (30 Training Hours)*
+- 🔓 **Broken Access Control & IDOR Exploitation Workshop** — *Green Armor Academy & IEEE Student Branch (ID: 32b368e624c460eb)*
+- 🐍 **Python Programming & Automation Masterclass**
+- 📊 **Introduction to Data Science & Analytics**
 
 ---
 
