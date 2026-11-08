@@ -6,8 +6,7 @@
 <p align="center">
   🎓 <b>Software & Artificial Intelligence Engineering Student</b> at University of Palestine<br/>
   🛡️ <b>Offensive Cybersecurity Specialist</b> | Penetration Testing, CEH, Web Application Security & IDOR Exploitation<br/>
-  🤖 <b>AI & Automation Engineer</b> | Building resilient FastAPI backends, Gemini AI pipelines & Telegram bots<br/>
-  🎙️ <b>Tech Speaker & Mentor</b> | Delivered <i>"Build Your Tech Brand"</i> workshop at University of Palestine
+  🤖 <b>Python & AI Automation Developer</b> | Engineering intelligent systems, Telegram bots & resilient backends
 </p>
 
 <p align="center">
@@ -21,61 +20,37 @@
 
 ---
 
-### 🏆 Honors & Community Leadership
-- 🎙️ **Workshop Speaker & Instructor**: Delivered the technical workshop **"اصنع براندك التقني (Build Your Tech Brand)"** organized by the Faculty of Software Engineering & Artificial Intelligence — University of Palestine (Sep 2026).  
-  📄 [View Certificate of Appreciation](./certificates/university-of-palestine-speaker-honor.pdf)
+### 💼 Practical Experience & Hands-On Capabilities
+
+- 🌐 **تطوير وهندسة المنصات الذكية (AI-Powered Web Platforms):**
+  - بناء وتطوير منصات ويب متكاملة (Full-Stack) معتمدة على **FastAPI** وقواعد بيانات **PostgreSQL** ومستضافة سحابياً.
+  - دمج نماذج الذكاء الاصطناعي التوليدي (**Google Gemini API**) لمعالجة وتحليل البيانات وتخصيص تجربة المستخدم.
+  - تطبيق معايير الأمان الصارمة (**OWASP Hardening**)، حماية الجلسات والمصادقة (JWT & Session Management)، وتأمين الـ Endpoints ضد هجمات الويب.
+
+- 🤖 **أنظمة الأتمتة المتقدمة وتطوير البوتات (Intelligent Automation & Bots):**
+  - هندسة وبناء بوتات تيليجرام تفاعلية وغير متزامنة (**Async Python Telegram Bots**) لجمع البيانات وتقديم إجابات ذكية مدعومة بالذكاء الاصطناعي.
+  - تطوير سكربتات أتمتة التعامل مع البوابات والأنظمة الأكاديمية وإدارة جلسات تسجيل الدخول وفحص التحديثات والمحتوى الجديد وإرسال إشعارات فورية.
+
+- 🛡️ **الأمن السيبراني واختبار الاختراق (Offensive Cybersecurity & PenTesting):**
+  - فحص واستغلال ثغرات التحكم بالوصول وانتحال الهوية المعرفية (**Broken Access Control & IDOR Exploitation**).
+  - إجراء عمليات جمع المعلومات الاستخباراتية مفتوحة المصدر (**OSINT Reconnaissance**) وتحليل البصمة الرقمية للأنظمة.
+  - محاكاة سيناريوهات الهندسة الاجتماعية (**Social Engineering Simulation**) لتقييم الوعي الأمني.
+  - اختبار أمان الشبكات والتطبيقات باستخدام أدوات مثل **Kali Linux, Wireshark, Metasploit, Nmap**.
+
+- 📊 **تحليل البيانات والذكاء الاصطناعي (Data Science & AI):**
+  - خبرة في تحليل ومعالجة البيانات باستخدام **Python, Pandas, NumPy**، وهندسة الأوامر الذكية (Prompt Engineering) لضبط مخرجات النماذج.
 
 ---
 
-### 📜 Professional Certifications & Training
+### 📜 Verified Certifications & Credentials
 - 🛡️ **Offensive Cybersecurity & Penetration Testing** — *Bidaya Original (60 Training Hours, License: 57642, Cert No: Bid-0000137)*  
-  📄 [View Verified Certificate](./certificates/offensive-cybersecurity-penetration-testing.pdf)
+  📄 [عرض الشهادة المعتمدة (PDF)](./certificates/offensive-cybersecurity-penetration-testing.pdf)
 - ⚔️ **Professional Cybersecurity Course - CEH V1** — *Bidaya Consulting & Training (30 Hours, Cert No: BIDPC20260821)*  
-  📄 [View Verified Certificate](./certificates/ceh-v1-certification.jpg)
-- 🔓 **Broken Access Control & IDOR Exploitation Workshop** — *Green Armor Academy in collaboration with IEEE IUG Student Branch (Verify ID: 32b368e624c460eb)*  
-  📄 [View Verified Certificate](./certificates/green-armor-ieee-idor-workshop.pdf)
+  📄 [عرض الشهادة المعتمدة (JPG)](./certificates/ceh-v1-certification.jpg)
+- 🔓 **Broken Access Control & IDOR Exploitation Workshop** — *Green Armor Academy in collaboration with IEEE Student Branch (Verify ID: 32b368e624c460eb)*  
+  📄 [عرض الشهادة المعتمدة (PDF)](./certificates/green-armor-ieee-idor-workshop.pdf)
 - 🐍 **Python Programming & Automation Masterclass** — *Certificate of Completion*
 - 📊 **Introduction to Data Science & Analytics** — *Certificate of Completion*
-
----
-
-### 🚀 Flagship Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧭 EduAtlas (ScholarPilot AI)</h3>
-      <p align="center">AI-powered scholarship discovery and intelligence platform built with <b>FastAPI, Gemini API, Neon PostgreSQL, and Render</b> with enterprise-grade OWASP security hardening.</p>
-      <p align="center">
-        <a href="https://github.com/medozaiter" target="_blank"><b>Repository</b></a> •
-        <a href="https://eduatlas-irxv.onrender.com/" target="_blank"><b>Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 UPINAR Notifier</h3>
-      <p align="center">Autonomous university portal & Moodle monitoring tool for University of Palestine students. Seamlessly tracks courses, assignments, and lectures with Telegram push notifications.</p>
-      <p align="center">
-        <a href="https://github.com/medozaiter" target="_blank"><b>Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Scholarship Telegram Bot</h3>
-      <p align="center">Intelligent automation bot built with <code>python-telegram-bot</code> and Google Gemini to assist Palestinian and international students in finding verified academic grants.</p>
-      <p align="center">
-        <a href="https://github.com/medozaiter/scholarship-telegram-bot" target="_blank"><b>Repository</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 Cyber Recon & OSINT Toolkit</h3>
-      <p align="center">Custom security scripts for OSINT reconnaissance, threat footprinting, access control vulnerability testing, and social engineering simulation.</p>
-      <p align="center">
-        <a href="https://github.com/medozaiter" target="_blank"><b>Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -94,7 +69,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
 
-#### 💻 Software Engineering, AI & Data Science
+#### 💻 Software Engineering, AI & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,pandas,numpy,git,github,bash,linux,postman,tailwind,html,css" />
 </p>
