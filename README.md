@@ -64,6 +64,8 @@
 | <img src="https://img.shields.io/badge/IEEE-IDOR_&_Access_Control-00629B?style=for-the-badge&logo=ieee&logoColor=white" width="100%"/> | **IEEE & Green Armor** • فحص واستغلال ثغرات التحكم بالوصول وانتحال المعرفات |
 | <img src="https://img.shields.io/badge/Python-Automation_Masterclass-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%"/> | **Python Automation** • إتقان الأتمتة المتقدمة، وبناء الخوادم والبوتات الذكية |
 | <img src="https://img.shields.io/badge/Data_Science-Analytics_&_AI-150458?style=for-the-badge&logo=pandas&logoColor=white" width="100%"/> | **Data Analytics & AI** • معالجة وتحليل البيانات ونماذج الذكاء الاصطناعي |
+| <img src="https://img.shields.io/badge/Web_Security-AppSec_&_OWASP-E01E5A?style=for-the-badge&logo=owasp&logoColor=white" width="100%"/> | **Web Application Security** • أمن وتأمين تطبيقات الويب ومكافحة الثغرات البرمجية (النادي الهندسي) |
+| <img src="https://img.shields.io/badge/Generative_AI-Large_Language_Models-7928CA?style=for-the-badge&logo=openai&logoColor=white" width="100%"/> | **Inside Large Language Models (LLMs)** • بنية النماذج اللغوية الضخمة من NLP إلى ChatGPT (كلية هندسة البرمجيات والـ AI) |
 
 </div>
 
